@@ -4,5 +4,7 @@
     "homepage": "https://github.com/killsen/openresty-orpm",
     "license": "MIT",
     "url": "https://github.com/killsen/openresty-orpm/archive/refs/tags/v1.0.0.zip",
+    "hash": "8a1d27bf54edca09817e5fb4ca820b9441fd4a99bb8dfda6fbc1bd3bdeb7a420",
+    "extract_dir": "openresty-orpm-1.0.0",
     "bin": "orpm.ps1"
 }
