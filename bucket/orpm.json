@@ -1,10 +1,10 @@
 {
-    "version": "2.2.8",
+    "version": "2.2.9",
     "description": "OpenResty Package Management",
     "homepage": "https://github.com/killsen/openresty-orpm",
     "license": "MIT",
-    "url": "https://github.com/killsen/openresty-orpm/archive/refs/tags/v2.2.8.zip",
-    "hash": "0a137b8f258a760c4c5aea15816294b61e69a108e267189ab210104d606573bc",
-    "extract_dir": "openresty-orpm-2.2.8",
+    "url": "https://github.com/killsen/openresty-orpm/archive/refs/tags/v2.2.9.zip",
+    "hash": "38c972d78bda9dd87a9cbd5fa16e38347b4ff9eaafe4fd816eb66f3ba0b1c1d4",
+    "extract_dir": "openresty-orpm-2.2.9",
     "bin": "orpm.ps1"
 }
